@@ -1,0 +1,7 @@
+Cloth
+Fishing_net_Rope
+Glass
+Metal
+Natural_debris
+Plastic
+Rubber
