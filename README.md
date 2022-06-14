@@ -18,6 +18,8 @@ doi={10.1109/JSTARS.2021.3107853}}
 ## Examples
 
 <figure class="half">
-<img align="left" src="./Example/GroundTruth.png"/>
-<img align="right" src="./Example/Detection.png"/>
+<img align="left" src="./Example/GroundTruth.png", width='100'/>
+<img align="right" src="./Example/Detection.png", width='100'/>
 </figyure>
+
+
